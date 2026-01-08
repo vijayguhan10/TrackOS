@@ -8,10 +8,10 @@
         <version>4.0.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.TrackOS</groupId>
-    <artifactId>TrackOS</artifactId>
+    <groupId>com.TrackOSProject</groupId>
+    <artifactId>TrackOSProject</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>TrackOS</name>
+    <name>TrackOSProject</name>
     <description>Demo project for Spring Boot</description>
     <url/>
     <licenses>
